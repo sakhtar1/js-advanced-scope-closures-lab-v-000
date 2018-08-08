@@ -10,8 +10,4 @@ function produceDrivingRange(blockRange) {
   };
 };
 
-function produceTipCalculator(tip){
-  function(bill){
-     return tip * bill;
-  }
-}
+
